@@ -1,2 +1,2 @@
 # nlp-kellogg-repo
-Class materials
+NLP Class materials
